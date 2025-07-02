@@ -15,6 +15,10 @@ with app.app_context():
     from schema import *  # Load models
     db.create_all()
 
+@app.route("/")
+def home():
+    return "✅ Flask backend is running successfully!"
+
 # ✅ Import routes AFTER db is initialized and schema is loaded
 from routes.ticket_routes import ticket_bp
 app.register_blueprint(ticket_bp)
@@ -22,4 +26,4 @@ app.register_blueprint(ticket_bp)
 if __name__ == '__main__':
     if not os.path.exists('uploads'):
         os.mkdir('uploads')
-    app.run(debug=True, port=5000)
+    app.run(host="0.0.0.0", port=5000, debug=True)
