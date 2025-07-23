@@ -26,7 +26,11 @@ A responsive and dynamic web application for managing project issues efficiently
 
 ## 📸 Screenshots
 
-> *(Insert screenshots here)*  
+> *<img width="1864" height="950" alt="Screenshot 2025-07-02 014253" src="https://github.com/user-attachments/assets/0ac0fbb3-3b2a-45bd-9077-29ba7e9cb7e0" />
+<img width="1872" height="910" alt="Screenshot 2025-07-02 014348" src="https://github.com/user-attachments/assets/0b7227cb-aaad-44d8-8d06-74c7b30bf234" />
+<img width="1877" height="921" alt="Screenshot 2025-07-02 014319" src="https://github.com/user-attachments/assets/0cf2c860-d5f9-4885-bcb3-4f1d293d7050" />
+
+*  
 > UI showcasing issue list, filters, and issue creation form.
 
 ---
