@@ -38,4 +38,4 @@ A responsive and dynamic web application for managing project issues efficiently
 ## 🧑‍💻 Authors
 
 - [@Vaibhav-1819](https://github.com/Vaibhav-1819)  
-- [@TeammateUsername](https://github.com/TeammateUsername)
+- [@S-Sumanth-18](https://github.com/S-Sumanth-18)
