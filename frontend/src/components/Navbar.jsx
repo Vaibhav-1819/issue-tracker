@@ -11,7 +11,7 @@ const Navbar = ({ user, onLogout }) => {
       {/* Left: Brand */}
       <div className="navbar-brand-custom">
         <FaBug className="icon" />
-        Issue Tracker
+        IssueIt
       </div>
 
       {/* Center: Navigation Links */}
