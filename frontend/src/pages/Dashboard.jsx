@@ -5,7 +5,7 @@ const Dashboard = ({ user }) => {
   return (
     <div className="page-content">
       <div className="dashboard-header">
-        <h2>🎫 Issue Tracker Dashboard</h2>
+        <h2>🎫 IssueIt Dashboard</h2>
         <p className="user-info">
           Logged in as: <strong>{user.name}</strong>
         </p>
